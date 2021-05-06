@@ -1,6 +1,5 @@
-<h2><img src="Animated Scatterplot_10fps_output.gif">
-
-##### <center>An epic data visualization / storytelling similar to [Hans Rosling’s famous animation](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=youtu.be)</center>
+##An epic data visualization 
+<img src="Animated Scatterplot_10fps_output.gif">
 
     - Read in data from multiple sources: 
         - worldwide fertility rate data
