@@ -1,6 +1,6 @@
 # An epic data visualization
 
-<img src="Animated Scatterplot_10fps_output.gif">
+<img src="Animated Scatterplot_10fps_output.gif" width='300'>
 
     - Read in data from multiple sources: 
         - worldwide fertility rate data
