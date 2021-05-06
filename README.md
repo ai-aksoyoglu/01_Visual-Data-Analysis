@@ -1,4 +1,4 @@
-# <center>Animated Scatterplot</center>
+<h2><img src="Animated Scatterplot_10fps_output.gif" width='30'>
 
 ##### <center>An epic data visualization / storytelling similar to [Hans Rosling’s famous animation](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=youtu.be)</center>
 
