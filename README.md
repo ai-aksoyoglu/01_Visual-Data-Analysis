@@ -1,4 +1,4 @@
-## An epic data visualization 
+#<center> An epic data visualization </center>
 
 <img src="Animated Scatterplot_10fps_output.gif">
 
