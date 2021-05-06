@@ -1,4 +1,5 @@
-##An epic data visualization 
+## An epic data visualization 
+
 <img src="Animated Scatterplot_10fps_output.gif">
 
     - Read in data from multiple sources: 
